@@ -1,0 +1,1 @@
+Mutator=(ClassName=BossReplacer.BossReplacer,GroupName=KF-BossReplacer,IconMaterialName=MutatorArt.nosym,FriendlyName=BossReplacer.BossReplacer.FriendlyName,Description=BossReplacer.BossReplacer.Description,FriendlyName=BossReplacer.BossReplacer.FriendlyName,FallbackName="Boss Replacer",FallbackDesc="Allows the host to specify a custom end-game boss.")

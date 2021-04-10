@@ -1,0 +1,553 @@
+[WTFEquip44Magnum]
+Description="WTF Sharpshooter: reduced movement penalty for firing"
+
+[WTFEquip44MagnumPickup]
+PickupMessage="You picked up the 44 Magnum."
+
+[WTFEquipAA13Pickup]
+ItemName="AA13"
+ItemShortName="AA13"
+PickupMessage="You picked up the AA13."
+
+[WTFEquipAA13Shotgun]
+Description="WTF Demo: explosive rounds. WTF Support: double-reload or reload while full to load Shot/Slugs."
+ItemName="AA13"
+
+[WTFEquipAK48S]
+Description="WTF Commando: toggle to Super Auto"
+ItemName="AK48S"
+
+[WTFEquipAK48SPickup]
+ItemName="AK48S"
+ItemShortName="AK48S"
+PickupMessage="You picked up an AK48S."
+
+[WTFEquipAxeOfViolence]
+Description="WTF Berserker: attacks do not slow you, iron-sights to lunge, hold secondary to charge or release while falling."
+ItemName="Axe Of Violence"
+
+[WTFEquipAxeOfViolencePickup]
+ItemName="Axe Of Violence"
+ItemShortName="Axe Of Violence"
+PickupMessage="Axe Of Violence incomming..."
+
+[WTFEquipBanHammer]
+Description="It's a bomb on a stick! Secondary fire to re-arm."
+ItemName="Ban Hammer"
+
+[WTFEquipBanHammerPickup]
+ItemName="Ban Hammer"
+ItemShortName="Ban Hammer"
+PickupMessage="You wield the Ban Hammer."
+
+[WTFEquipBanelli]
+Description="WTF Support: double-reload or reload while full to load Shot/Slugs."
+
+[WTFEquipBanelliPickup]
+ItemName="Banelli Shotgun"
+ItemShortName="Banelli"
+PickupMessage="You picked up the Banelli Shotgun."
+
+[WTFEquipBoomStick]
+Description="WTF Support: reload while full to use shot / slugs"
+ItemName="BOOMSTICK"
+
+[WTFEquipBoomStickPickup]
+ItemName="BOOMSTICK"
+ItemShortName="BOOMSTICK"
+PickupMessage="THIS. IS. MY. BOOMSTICK!"
+
+[WTFEquipBulldog]
+Description="WTF Commando: can toggle to Super Auto"
+ItemName="Bulldog"
+
+[WTFEquipBulldogPickup]
+ItemName="Bulldog"
+ItemShortName="Bulldog"
+PickupMessage="You found the Bulldog."
+
+[WTFEquipChemicalSprayer]
+Description="Sprays an experimental chemical that heals players and harms zeds."
+ItemName="Chemical Sprayer"
+
+[WTFEquipChemicalSprayerAmmo]
+ItemName="Chem Canisters"
+
+[WTFEquipChemicalSprayerAmmoPickup]
+PickupMessage="Chem Canisters"
+
+[WTFEquipChemicalSprayerPickup]
+ItemName="Chemical Sprayer"
+ItemShortName="Chemical Sprayer"
+PickupMessage="No long-term health effects (probably). You got the Chemical Sprayer."
+
+[WTFEquipClaymoreSword]
+Description="WTF Berserker: attacks do not slow you, wider damage arc"
+
+[WTFEquipClaymoreSwordPickup]
+ItemShortName="Claymore Sword"
+PickupMessage="You picked up a Claymore Sword."
+
+[WTFEquipCombatKnife]
+Description="WTF Berserker: attacks do not slow you, wider damage arc"
+ItemName="Combat Knife"
+
+[WTFEquipCombatKnifePickup]
+ItemName="Combat Knife"
+ItemShortName="Combat Knife"
+PickupMessage="You picked up a Combat Knife."
+
+[WTFEquipCrossbow]
+Description="WTF Medic: poison arrows"
+ItemName="Xbow"
+
+[WTFEquipCrossbowPickup]
+ItemName="Xbow"
+ItemShortName="Xbow"
+PickupMessage="You found an Xbow."
+
+[WTFEquipDamTypeLethalInjection]
+DeathString="%o was poisoned."
+
+[WTFEquipDeagle]
+Description="WTF Sharpshooter: reduced movement penalties of firing."
+ItemName="Desert Eagle"
+
+[WTFEquipDeaglePickup]
+ItemName="Desert Eagle"
+ItemShortName="Desert Eagle"
+PickupMessage="You found a Desert Eagle."
+
+[WTFEquipDual44Magnum]
+Description="WTF Sharpshooter: reduced movement penalties of firing."
+ItemName="2x 44 Magnum"
+
+[WTFEquipDual44MagnumPickup]
+ItemName="2x 44 Magnum"
+ItemShortName="2x 44 Magnum"
+PickupMessage="You picked up 2x 44 Magnum."
+
+[WTFEquipDualDeagle]
+Description="WTF Medic/WTF Sharpshooter: reduced movement penalties of firing."
+ItemName="2x Desert Eagle"
+
+[WTFEquipDualDeaglePickup]
+ItemName="2x Desert Eagle"
+ItemShortName="2x Desert Eagle"
+PickupMessage="You found 2x Desert Eagles."
+
+[WTFEquipDualMK23Pickup]
+ItemName="2x MK23"
+ItemShortName="2x MK23"
+PickupMessage="You found 2x MK23."
+
+[WTFEquipDualMK23Pistol]
+Description="WTF Medic/WTF Sharpshooter: reduced movement penalties of firing."
+ItemName="2x MK23"
+
+[WTFEquipDwarfsAxe]
+Description="A battle axe from Dwarfs!? Primary might have magical properties..."
+ItemName="WTF? Dwarfs Axe!?"
+
+[WTFEquipDwarfsAxePickup]
+ItemName="WTF? Dwarfs Axe!?"
+ItemShortName="WTF? Dwarfs Axe!?"
+PickupMessage="WTF? A Dwarfs Axe!? This will 'em down to size!"
+
+[WTFEquipFNWin]
+Description="WTF Commando: toggle to Super Auto"
+ItemName="FnWin"
+
+[WTFEquipFNWinPickup]
+ItemName="FnWin"
+ItemShortName="FnWin"
+PickupMessage="You F'n Win."
+
+[WTFEquipFSyringe]
+Description="Unleash the FURY."
+ItemName="F-Syringe"
+
+[WTFEquipFSyringePickup]
+ItemName="F-Syringe"
+PickupMessage="Not sure if I should use this..."
+
+[WTFEquipFURY]
+Description="FURY"
+ItemName="FURY"
+
+[WTFEquipFURYDamType]
+DeathString="%o filled %k's body with FURY."
+FemaleSuicide="%o couldn't contain the FURY."
+MaleSuicide="%o couldn't contain the FURY."
+
+[WTFEquipFURYPickup]
+ItemName="FURY"
+ItemShortName="FURY"
+PickupMessage="UNLEASH THE FURY"
+
+[WTFEquipFirehose]
+Description="Sprays fire in a concentrated stream (primary) or cone (secondary)"
+ItemName="Fire hose"
+
+[WTFEquipFirehosePickup]
+ItemName="Fire hose"
+ItemShortName="Fire hose"
+PickupMessage="Drinks from the Fire hose - plenty for everybody!"
+
+[WTFEquipFlaregun]
+Description="Fires a long-lasting flare for illumination."
+ItemName="Flaregun"
+
+[WTFEquipFlaregunAmmo]
+ItemName="Flares"
+
+[WTFEquipFlaregunPickup]
+ItemName="Flaregun"
+ItemShortName="Flaregun"
+PickupMessage="You got the Flaregun."
+
+[WTFEquipGlowstick]
+Description="Primary to toss for long-lasting illumination. Secondary to activate and wear."
+ItemName="Glowstick"
+
+[WTFEquipGlowstickAmmo]
+ItemName="Flares"
+
+[WTFEquipGlowstickPickup]
+ItemName="Glowstick"
+ItemShortName="Glowstick"
+PickupMessage="You got the Glowstick."
+
+[WTFEquipIncinerator]
+Description="Primary to charge up a firebolt, Secondary to spray intense flames."
+ItemName="Incinerator"
+
+[WTFEquipIncineratorPickup]
+ItemName="Incinerator"
+ItemShortName="Incinerator"
+PickupMessage="You picked up the Incinerator."
+
+[WTFEquipKSG]
+Description="Secondary to toggle tight/wide spread. WTF Support: double-reload or reload while full to load Shot/Slugs"
+
+[WTFEquipKSGPickup]
+ItemName="KSG Shotgun"
+ItemShortName="KSG"
+PickupMessage="You picked up the KSG."
+
+[WTFEquipKatana]
+Description="WTF Berserker: wider damage arc, attacks do not slow you, iron-sights for adrenaline."
+
+[WTFEquipKrissM2MG]
+Description="WTF Medic: reduced movement penalties for firing, faster healing recharge/firing"
+ItemName="KrissM2 Medic Gun"
+
+[WTFEquipKrissM2Pickup]
+ItemName="KrissM2 Medic Gun"
+ItemShortName="KrissM2 Medic Gun"
+PickupMessage="You got the KrissM2 Medic Gun."
+
+[WTFEquipLAWL]
+Description="Warning: explosive potential of rockets may vary. WTF Firebug: napalm rockets."
+ItemName="The LAWL"
+
+[WTFEquipLAWLPickup]
+ItemName="LAWL"
+ItemShortName="LAWL"
+PickupMessage="I AM THE LAWL!"
+
+[WTFEquipLethalInjection]
+Description="Injects debilitating toxins (damage over time). WTF Medic: also slows zeds."
+ItemName="Lethal Injection"
+
+[WTFEquipLethalInjectionAmmo]
+ItemName="Med-Syringe drugs"
+
+[WTFEquipLethalInjectionPickup]
+ItemName="Lethal Injection"
+ItemShortName="Lethal Injection"
+PickupMessage="You found a Lethal Injection."
+
+[WTFEquipM1000Pickup]
+ItemName="M1000"
+ItemShortName="M1000"
+PickupMessage="You got the M1000 Sniper Rifle."
+
+[WTFEquipM1000SR]
+Description="I'm looking for a big gun that shoots a really big bullet."
+ItemName="M1000"
+
+[WTFEquipM4204AR]
+Description="Nade types vary; WTF Firebug: incendiary. WTF Medic: healing. WTF Support: super buckshot."
+ItemName="M4 204"
+
+[WTFEquipM4204FmAAmmo]
+ItemName="M4 w/M203 bullets"
+
+[WTFEquipM4204FmBAmmo]
+ItemName="M4204 Grenades"
+
+[WTFEquipM4204FmBAmmoPickup]
+PickupMessage="M4204 Grenades"
+
+[WTFEquipM4204FmBProjFieldMedic]
+SuccessfulHealMessage="You healed "
+
+[WTFEquipM4204Pickup]
+ItemName="M4204"
+ItemShortName="M4204"
+PickupMessage="You picked up an M4204."
+
+[WTFEquipM5AR]
+Description="WTF Commando: toggle to Super Auto"
+ItemName="M5"
+
+[WTFEquipM5Pickup]
+ItemName="M5"
+ItemShortName="M5"
+PickupMessage="You picked up an M5."
+
+[WTFEquipM79CF]
+Description="WTF Demo: cluster bombs. WTF Firebug: Incindiary. WTF Support: Super Buckshot."
+ItemName="M79CF"
+
+[WTFEquipM79CFPickup]
+ItemName="M79CF"
+ItemShortName="M79CF"
+PickupMessage="You got the M79CF."
+
+[WTFEquipM7A4M]
+Description="WTF Medic: reduced movement penalties for firing, faster healing recharge/firing"
+ItemName="M7A4M Medic Gun"
+
+[WTFEquipM7A4MPickup]
+ItemName="M7A4M Medic Gun"
+ItemShortName="M7A4M Medic Gun"
+PickupMessage="You got the M7A4M Medic Gun."
+
+[WTFEquipMAC12Pickup]
+ItemName="Mac12"
+ItemShortName="Mac12"
+PickupMessage="You found a Mac12."
+
+[WTFEquipMK23Pickup]
+PickupMessage="You found a MK23."
+
+[WTFEquipMK23Pistol]
+Description="WTF Sharpshooter: reduced movement penalties for firing."
+
+[WTFEquipMKb43AR]
+Description="WTF Commando: toggle to Super Auto"
+ItemName="MKb43"
+
+[WTFEquipMKb43Pickup]
+ItemName="MKb43"
+ItemShortName="MKb43"
+PickupMessage="You picked up an MKb43."
+
+[WTFEquipMP6M]
+Description="WTF Medic: reduced movement penalties for firing, faster heal recharge/firing"
+ItemName="MP6M Medic Gun"
+
+[WTFEquipMP6MPickup]
+ItemName="MP6M Medic Gun"
+ItemShortName="MP6M Medic Gun"
+PickupMessage="You got the MP6M Medic Gun."
+
+[WTFEquipMP7M2MG]
+Description="WTF Medic: reduced movement penalties for firing, faster heal recharge/firing"
+ItemName="Mp7M2 Medic Gun"
+
+[WTFEquipMP7M2Pickup]
+ItemName="MP7M2 Medic Gun"
+ItemShortName="MP7M2 Medic Gun"
+PickupMessage="You got the MP7M2 Medic Gun."
+
+[WTFEquipMac12MP]
+Description="WTF Medic: reduced movement penalties for firing."
+ItemName="Mac12"
+
+[WTFEquipMachete]
+Description="WTF Berserker: attacks do not slow you, wider damage-arc."
+
+[WTFEquipMachetePickup]
+PickupMessage="Just keep chopping..."
+
+[WTFEquipMachineDualies]
+Description="WTF Sharpshooter/Medic: reduced movement penalties for firing."
+ItemName="2x Machine Pistols"
+
+[WTFEquipMachineDualiesPickup]
+ItemName="2x Machine Pistols"
+ItemShortName="2x Machine Pistols"
+PickupMessage="You got 2x Machine Pistols."
+
+[WTFEquipMachinePistol]
+Description="WTF Sharpshooter: reduced movement penalties for firing."
+ItemName="Machine Pistol"
+
+[WTFEquipMachinePistolPickup]
+ItemName="Machine Pistol"
+ItemShortName="Machine Pistol"
+PickupMessage="You got a Machine Pistol."
+
+[WTFEquipPipeBomb]
+Description="A deadly weapon"
+ItemName="Pipe Bomb"
+
+[WTFEquipPipeBombPickup]
+PickupMessage="You got some Pipe Bombs."
+
+[WTFEquipRIPsaw]
+Description="WTF Berserker: attacks do not slow you, iron-sights to lunge, hold secondary to charge or release while falling."
+ItemName="RIPSaw"
+
+[WTFEquipRIPsawPickup]
+ItemName="RIPSaw"
+PickupMessage="A Chainsaw! Now find some meat!"
+
+[WTFEquipSCAR19AR]
+Description="WTF Commando: toggle to Super Auto"
+ItemName="SCAR19"
+
+[WTFEquipSCAR19Pickup]
+ItemName="SCAR19"
+ItemShortName="SCAR19"
+PickupMessage="You picked up a SCAR19."
+
+[WTFEquipSawedOffShotgun]
+Description="Pocket-sized punisher."
+ItemName="Sawed-Off Shotgun"
+
+[WTFEquipSawedOffShotgunAmmoPickup]
+PickupMessage="12-Gauge Shells"
+
+[WTFEquipSawedOffShotgunPickup]
+ItemName="Sawed-Off Shotgun"
+ItemShortName="Sawed-Off Shotgun"
+PickupMessage="You found a Sawed-Off Shotgun."
+
+[WTFEquipSelfDestruct]
+Description="The last resort."
+ItemName="Self Destruct!"
+
+[WTFEquipSelfDestructAmmo]
+ItemName="Self Destruct!"
+
+[WTFEquipSelfDestructPickup]
+ItemName="Self Destruct!"
+ItemShortName="Self Destruct!"
+PickupMessage="Don't do it man! You got the Suicide Bomb."
+
+[WTFEquipShotgun]
+Description="WTF Support: double-reload or reload while full to load Shot/Slugs. WTF Commando: magsize bonus applies."
+ItemName="Pump Shotgun"
+
+[WTFEquipTommyGun]
+Description="WTF Commando: toggle to Super Auto"
+
+[WTFEquipTommyGunPickup]
+PickupMessage="You'll never take me alive CLOTTERS!"
+
+[WTFEquipUM32GL]
+Description="Secondary: mines. WTF Firebug: incendiary. WTF Support: super buckshot."
+ItemName="UM32"
+
+[WTFEquipUM32Pickup]
+ItemName="UM32"
+ItemShortName="UM32"
+PickupMessage="You got the UM32."
+
+[WTFEquipWelda]
+Description="Welds doors, zeds, metal clots...anything!"
+ItemName="Legend of Welda"
+
+[WTFEquipWeldaAmmo]
+ItemName="Welda Fuel"
+
+[WTFEquipWeldaFire]
+NoWeldTargetMessage="Find something to weld first."
+
+[WTFEquipWeldaPickup]
+ItemName="Legend of Welda"
+ItemShortName="Legend of Welda"
+PickupMessage="The Legend of Welda Begins..."
+
+[WTFMessages]
+SwitchMessage[0]="Slug shells loaded"
+SwitchMessage[1]="Shot shells loaded"
+SwitchMessage[2]="Explosive shells loaded"
+SwitchMessage[3]="Full auto"
+SwitchMessage[4]="Super auto"
+SwitchMessage[5]="Semi auto"
+SwitchMessage[6]="Smashing Strike! (x1.15 Damage)"
+SwitchMessage[7]="Charged Strike! (x1.15 Damage)"
+SwitchMessage[8]="DEATH FROM ABOVE! (x1.3 Damage)"
+
+[WTFVetBerserker]
+VeterancyName="WTF Berserker"
+
+[WTFVetCommando]
+VeterancyName="WTF Commando"
+Requirements[0]="Kill %x stalkers with Assault/Battle Rifles"
+
+[WTFVetDemolitions]
+VeterancyName="WTF Demolitions"
+LevelEffects[0]="test description"
+LevelEffects[1]="test description"
+LevelEffects[2]="test description"
+LevelEffects[3]="test description"
+LevelEffects[4]="test description"
+LevelEffects[5]="test description"
+LevelEffects[6]="test description"
+
+[WTFVetFieldMedic]
+VeterancyName="WTF Field Medic"
+
+[WTFVetFirebug]
+VeterancyName="WTF Firebug"
+Requirements[0]="Deal %x damage with the flame weapons"
+
+[WTFVetSharpshooter]
+VeterancyName="WTF Sharpshooter"
+Requirements[0]="Get %x headshot kills with Sharpshooter weapons"
+
+[WTFVetSupportSpec]
+VeterancyName="WTF Support Specialist"
+
+[WTFZombiesBansheeBase]
+MenuName="Banshee"
+
+[WTFZombiesBloaty]
+MenuName="Bloaty"
+
+[WTFZombiesBloatzilla]
+MenuName="Bloatzilla"
+
+[WTFZombiesBroodling]
+MenuName="Broodling"
+
+[WTFZombiesBroodmother]
+MenuName="Broodmother"
+
+[WTFZombiesGoreallyfast]
+MenuName="Goreallyfast"
+
+[WTFZombiesHateriarch]
+MenuName="The Hateriarch"
+
+[WTFZombiesIncinerator]
+MenuName="Incinerator"
+
+[WTFZombiesLeaper]
+MenuName="Leaper"
+
+[WTFZombiesMauler]
+MenuName="Mauler"
+
+[WTFZombiesMeatPounder]
+MenuName="Meat Pounder"
+
+[WTFZombiesMetalClot]
+MenuName="Metal Clot"
+

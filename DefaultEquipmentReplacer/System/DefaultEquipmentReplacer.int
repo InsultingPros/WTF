@@ -1,0 +1,4 @@
+[DefaultEquipmentReplacer]
+FriendlyName="Default Equipment Replacer"
+Description="Allows the host to specify default starting equipment for KFHumanPawns (AKA Players)."
+
