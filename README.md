@@ -1,7 +1,7 @@
 # WTF V2 Mod
 
 > N.B. Uploaded for historical reasons.
-> Use [KFCmdlet and it's batches](https://github.com/InsultingPros/KFCmdlet) for easy compilation.
+> Use [KF Compile Tool](https://github.com/InsultingPros/KFCompileTool) for easy compilation.
 
 WTFMut has been retooled for total compatibility with ServerPerks!
 
